@@ -1,8 +1,10 @@
-# PeakSat Logger App
+# PeakSat Logs App
 
 A python dashboard app that parses and displays the logs created from the PeakSat's OBC board, in a visual friendly way.
 
-img
+<p align="center">
+    <img src="https://github.com/PeakSat/PeakSat_Log_App/blob/main/images/Screenshot_APP.jpg" alt="App_example"/>
+</p>
 
 ---
 ## Running the App
@@ -35,7 +37,9 @@ img
     - CAN bus status.   (Red line)
     - Resets.   (Black dashed vertical line)
 
-img
+<p align="center">
+    <img src="https://github.com/PeakSat/PeakSat_Log_App/blob/main/images/Screenshot_plot_example.jpg" alt="Plot_example"/>
+</p>
 
 ``📝NOTE: After ploting a file, a parsed log file will be created in the parsedLogs folder, delete this file if you wish to plot the same file again``
 
