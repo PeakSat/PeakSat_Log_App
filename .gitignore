@@ -1,0 +1,4 @@
+logFiles/*
+!logFiles/example.txt
+
+parsedLogs/*
